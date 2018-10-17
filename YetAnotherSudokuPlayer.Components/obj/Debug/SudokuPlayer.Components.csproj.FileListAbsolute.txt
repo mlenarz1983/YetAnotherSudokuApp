@@ -1,0 +1,7 @@
+C:\Users\mlenarz.BIZSPEED\Documents\Visual Studio 2008\Projects\SudokuPlayer\SudokuPlayer\bin\Debug\SudokuPlayer.Components.dll
+C:\Users\mlenarz.BIZSPEED\Documents\Visual Studio 2008\Projects\SudokuPlayer\SudokuPlayer\bin\Debug\SudokuPlayer.Components.pdb
+C:\Users\mlenarz.BIZSPEED\Documents\Visual Studio 2008\Projects\SudokuPlayer\SudokuPlayer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\mlenarz.BIZSPEED\Documents\Visual Studio 2008\Projects\SudokuPlayer\SudokuPlayer\obj\Debug\SudokuPlayer.Components.dll
+C:\Users\mlenarz.BIZSPEED\Documents\Visual Studio 2008\Projects\SudokuPlayer\SudokuPlayer\obj\Debug\SudokuPlayer.Components.pdb
+C:\Users\mlenarz.BIZSPEED\Documents\Visual Studio 2008\Projects\SudokuPlayer\SudokuPlayer\obj\Debug\SudokuPlayer.Components.SudokuBoard.resources
+C:\Users\mlenarz.BIZSPEED\Documents\Visual Studio 2008\Projects\SudokuPlayer\SudokuPlayer\obj\Debug\SudokuPlayer.Components.csproj.GenerateResource.Cache

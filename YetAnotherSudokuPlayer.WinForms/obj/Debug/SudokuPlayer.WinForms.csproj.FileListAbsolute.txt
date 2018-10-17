@@ -1,0 +1,11 @@
+C:\Users\mlenarz.BIZSPEED\Documents\Visual Studio 2008\Projects\SudokuPlayer\SudokuPlayer.WinForms\bin\Debug\SudokuPlayer.WinForms.exe
+C:\Users\mlenarz.BIZSPEED\Documents\Visual Studio 2008\Projects\SudokuPlayer\SudokuPlayer.WinForms\bin\Debug\SudokuPlayer.WinForms.pdb
+C:\Users\mlenarz.BIZSPEED\Documents\Visual Studio 2008\Projects\SudokuPlayer\SudokuPlayer.WinForms\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\mlenarz.BIZSPEED\Documents\Visual Studio 2008\Projects\SudokuPlayer\SudokuPlayer.WinForms\obj\Debug\SudokuPlayer.WinForms.Properties.Resources.resources
+C:\Users\mlenarz.BIZSPEED\Documents\Visual Studio 2008\Projects\SudokuPlayer\SudokuPlayer.WinForms\obj\Debug\SudokuPlayer.WinForms.csproj.GenerateResource.Cache
+C:\Users\mlenarz.BIZSPEED\Documents\Visual Studio 2008\Projects\SudokuPlayer\SudokuPlayer.WinForms\obj\Debug\SudokuPlayer.WinForms.exe
+C:\Users\mlenarz.BIZSPEED\Documents\Visual Studio 2008\Projects\SudokuPlayer\SudokuPlayer.WinForms\obj\Debug\SudokuPlayer.WinForms.pdb
+C:\Users\mlenarz.BIZSPEED\Documents\Visual Studio 2008\Projects\SudokuPlayer\SudokuPlayer.WinForms\obj\Debug\SudokuPlayer.WinForms.MainForm.resources
+C:\Users\mlenarz.BIZSPEED\Documents\Visual Studio 2008\Projects\SudokuPlayer\SudokuPlayer.WinForms\obj\Debug\SudokuPlayer.WinForms.SudokuSquareControl.resources
+C:\Users\mlenarz.BIZSPEED\Documents\Visual Studio 2008\Projects\SudokuPlayer\SudokuPlayer.WinForms\bin\Debug\SudokuPlayer.Components.dll
+C:\Users\mlenarz.BIZSPEED\Documents\Visual Studio 2008\Projects\SudokuPlayer\SudokuPlayer.WinForms\bin\Debug\SudokuPlayer.Components.pdb

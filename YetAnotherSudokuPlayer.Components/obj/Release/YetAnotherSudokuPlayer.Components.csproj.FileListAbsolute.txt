@@ -1,0 +1,9 @@
+C:\Users\Matt\Desktop\YetAnotherSudokuPlayer\YetAnotherSudokuPlayer.Components\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Matt\Desktop\YetAnotherSudokuPlayer\YetAnotherSudokuPlayer.Components\obj\Release\YetAnotherSudokuPlayer.Components.SudokuBoard.resources
+C:\Users\Matt\Desktop\YetAnotherSudokuPlayer\YetAnotherSudokuPlayer.Components\obj\Release\YetAnotherSudokuPlayer.Components.csproj.GenerateResource.Cache
+C:\Users\Matt\Desktop\YetAnotherSudokuPlayer\YetAnotherSudokuPlayer.Components\bin\Release\YetAnotherSudokuPlayer.Components.dll
+C:\Users\Matt\Desktop\YetAnotherSudokuPlayer\YetAnotherSudokuPlayer.Components\bin\Release\YetAnotherSudokuPlayer.Components.pdb
+C:\Users\Matt\Desktop\YetAnotherSudokuPlayer\YetAnotherSudokuPlayer.Components\bin\Release\Dejavu.dll
+C:\Users\Matt\Desktop\YetAnotherSudokuPlayer\YetAnotherSudokuPlayer.Components\obj\Release\YetAnotherSudokuPlayer.Components.dll
+C:\Users\Matt\Desktop\YetAnotherSudokuPlayer\YetAnotherSudokuPlayer.Components\obj\Release\YetAnotherSudokuPlayer.Components.pdb
+C:\Users\Matt\Desktop\YetAnotherSudokuPlayer\YetAnotherSudokuPlayer.Components\obj\Release\YetAnotherSudokuPlayer.Components.Properties.Resources.resources

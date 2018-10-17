@@ -1,0 +1,11 @@
+C:\Users\mlenarz.BIZSPEED\Documents\Visual Studio 2008\Projects\SudokuPlayer\SudokuPlayer.Tests\bin\Debug\SudokuPlayer.Tests.exe
+C:\Users\mlenarz.BIZSPEED\Documents\Visual Studio 2008\Projects\SudokuPlayer\SudokuPlayer.Tests\bin\Debug\SudokuPlayer.Tests.pdb
+C:\Users\mlenarz.BIZSPEED\Documents\Visual Studio 2008\Projects\SudokuPlayer\SudokuPlayer.Tests\bin\Debug\nunit.framework.dll
+C:\Users\mlenarz.BIZSPEED\Documents\Visual Studio 2008\Projects\SudokuPlayer\SudokuPlayer.Tests\bin\Debug\SudokuPlayer.Components.dll
+C:\Users\mlenarz.BIZSPEED\Documents\Visual Studio 2008\Projects\SudokuPlayer\SudokuPlayer.Tests\bin\Debug\SudokuPlayer.Components.pdb
+C:\Users\mlenarz.BIZSPEED\Documents\Visual Studio 2008\Projects\SudokuPlayer\SudokuPlayer.Tests\bin\Debug\nunit.framework.xml
+C:\Users\mlenarz.BIZSPEED\Documents\Visual Studio 2008\Projects\SudokuPlayer\SudokuPlayer.Tests\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\mlenarz.BIZSPEED\Documents\Visual Studio 2008\Projects\SudokuPlayer\SudokuPlayer.Tests\obj\Debug\SudokuPlayer.Tests.Properties.Resources.resources
+C:\Users\mlenarz.BIZSPEED\Documents\Visual Studio 2008\Projects\SudokuPlayer\SudokuPlayer.Tests\obj\Debug\SudokuPlayer.Tests.csproj.GenerateResource.Cache
+C:\Users\mlenarz.BIZSPEED\Documents\Visual Studio 2008\Projects\SudokuPlayer\SudokuPlayer.Tests\obj\Debug\SudokuPlayer.Tests.exe
+C:\Users\mlenarz.BIZSPEED\Documents\Visual Studio 2008\Projects\SudokuPlayer\SudokuPlayer.Tests\obj\Debug\SudokuPlayer.Tests.pdb

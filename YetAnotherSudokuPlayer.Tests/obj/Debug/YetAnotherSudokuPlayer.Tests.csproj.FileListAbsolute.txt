@@ -1,0 +1,23 @@
+C:\Users\mlenarz.BIZSPEED\Documents\Visual Studio 2008\Projects\SudokuPlayer\SudokuPlayer.Tests\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\mlenarz.BIZSPEED\Documents\Visual Studio 2008\Projects\SudokuPlayer\SudokuPlayer.Tests\obj\Debug\YetAnotherSudokuPlayer.Tests.Properties.Resources.resources
+C:\Users\mlenarz.BIZSPEED\Documents\Visual Studio 2008\Projects\SudokuPlayer\SudokuPlayer.Tests\obj\Debug\YetAnotherSudokuPlayer.Tests.csproj.GenerateResource.Cache
+C:\Users\mlenarz.BIZSPEED\Documents\Visual Studio 2008\Projects\SudokuPlayer\SudokuPlayer.Tests\bin\Debug\YetAnotherSudokuPlayer.Tests.exe
+C:\Users\mlenarz.BIZSPEED\Documents\Visual Studio 2008\Projects\SudokuPlayer\SudokuPlayer.Tests\bin\Debug\YetAnotherSudokuPlayer.Tests.pdb
+C:\Users\mlenarz.BIZSPEED\Documents\Visual Studio 2008\Projects\SudokuPlayer\SudokuPlayer.Tests\bin\Debug\nunit.framework.dll
+C:\Users\mlenarz.BIZSPEED\Documents\Visual Studio 2008\Projects\SudokuPlayer\SudokuPlayer.Tests\bin\Debug\YetAnotherSudokuPlayer.Components.dll
+C:\Users\mlenarz.BIZSPEED\Documents\Visual Studio 2008\Projects\SudokuPlayer\SudokuPlayer.Tests\bin\Debug\YetAnotherSudokuPlayer.Components.pdb
+C:\Users\mlenarz.BIZSPEED\Documents\Visual Studio 2008\Projects\SudokuPlayer\SudokuPlayer.Tests\bin\Debug\nunit.framework.xml
+C:\Users\mlenarz.BIZSPEED\Documents\Visual Studio 2008\Projects\SudokuPlayer\SudokuPlayer.Tests\obj\Debug\YetAnotherSudokuPlayer.Tests.exe
+C:\Users\mlenarz.BIZSPEED\Documents\Visual Studio 2008\Projects\SudokuPlayer\SudokuPlayer.Tests\obj\Debug\YetAnotherSudokuPlayer.Tests.pdb
+C:\Users\Matt\Desktop\YetAnotherSudokuPlayer\YetAnotherSudokuPlayer.Tests\bin\Debug\YetAnotherSudokuPlayer.Tests.exe
+C:\Users\Matt\Desktop\YetAnotherSudokuPlayer\YetAnotherSudokuPlayer.Tests\bin\Debug\YetAnotherSudokuPlayer.Tests.pdb
+C:\Users\Matt\Desktop\YetAnotherSudokuPlayer\YetAnotherSudokuPlayer.Tests\bin\Debug\nunit.framework.dll
+C:\Users\Matt\Desktop\YetAnotherSudokuPlayer\YetAnotherSudokuPlayer.Tests\bin\Debug\YetAnotherSudokuPlayer.Components.dll
+C:\Users\Matt\Desktop\YetAnotherSudokuPlayer\YetAnotherSudokuPlayer.Tests\bin\Debug\Dejavu.dll
+C:\Users\Matt\Desktop\YetAnotherSudokuPlayer\YetAnotherSudokuPlayer.Tests\bin\Debug\YetAnotherSudokuPlayer.Components.pdb
+C:\Users\Matt\Desktop\YetAnotherSudokuPlayer\YetAnotherSudokuPlayer.Tests\bin\Debug\nunit.framework.xml
+C:\Users\Matt\Desktop\YetAnotherSudokuPlayer\YetAnotherSudokuPlayer.Tests\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Matt\Desktop\YetAnotherSudokuPlayer\YetAnotherSudokuPlayer.Tests\obj\Debug\YetAnotherSudokuPlayer.Tests.Properties.Resources.resources
+C:\Users\Matt\Desktop\YetAnotherSudokuPlayer\YetAnotherSudokuPlayer.Tests\obj\Debug\YetAnotherSudokuPlayer.Tests.csproj.GenerateResource.Cache
+C:\Users\Matt\Desktop\YetAnotherSudokuPlayer\YetAnotherSudokuPlayer.Tests\obj\Debug\YetAnotherSudokuPlayer.Tests.exe
+C:\Users\Matt\Desktop\YetAnotherSudokuPlayer\YetAnotherSudokuPlayer.Tests\obj\Debug\YetAnotherSudokuPlayer.Tests.pdb

@@ -1,0 +1,13 @@
+C:\Users\Matt\Desktop\YetAnotherSudokuPlayer\YetAnotherSudokuPlayer.WinForms\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Matt\Desktop\YetAnotherSudokuPlayer\YetAnotherSudokuPlayer.WinForms\obj\Release\YetAnotherSudokuPlayer.WinForms.MainForm.resources
+C:\Users\Matt\Desktop\YetAnotherSudokuPlayer\YetAnotherSudokuPlayer.WinForms\obj\Release\YetAnotherSudokuPlayer.WinForms.OptionsForm.resources
+C:\Users\Matt\Desktop\YetAnotherSudokuPlayer\YetAnotherSudokuPlayer.WinForms\obj\Release\YetAnotherSudokuPlayer.WinForms.Properties.Resources.resources
+C:\Users\Matt\Desktop\YetAnotherSudokuPlayer\YetAnotherSudokuPlayer.WinForms\obj\Release\YetAnotherSudokuPlayer.WinForms.SudokuSquareControl.resources
+C:\Users\Matt\Desktop\YetAnotherSudokuPlayer\YetAnotherSudokuPlayer.WinForms\obj\Release\YetAnotherSudokuPlayer.WinForms.csproj.GenerateResource.Cache
+C:\Users\Matt\Desktop\YetAnotherSudokuPlayer\YetAnotherSudokuPlayer.WinForms\bin\Release\YetAnotherSudokuPlayer.WinForms.exe
+C:\Users\Matt\Desktop\YetAnotherSudokuPlayer\YetAnotherSudokuPlayer.WinForms\bin\Release\YetAnotherSudokuPlayer.WinForms.pdb
+C:\Users\Matt\Desktop\YetAnotherSudokuPlayer\YetAnotherSudokuPlayer.WinForms\bin\Release\YetAnotherSudokuPlayer.Components.dll
+C:\Users\Matt\Desktop\YetAnotherSudokuPlayer\YetAnotherSudokuPlayer.WinForms\bin\Release\Dejavu.dll
+C:\Users\Matt\Desktop\YetAnotherSudokuPlayer\YetAnotherSudokuPlayer.WinForms\bin\Release\YetAnotherSudokuPlayer.Components.pdb
+C:\Users\Matt\Desktop\YetAnotherSudokuPlayer\YetAnotherSudokuPlayer.WinForms\obj\Release\YetAnotherSudokuPlayer.WinForms.exe
+C:\Users\Matt\Desktop\YetAnotherSudokuPlayer\YetAnotherSudokuPlayer.WinForms\obj\Release\YetAnotherSudokuPlayer.WinForms.pdb

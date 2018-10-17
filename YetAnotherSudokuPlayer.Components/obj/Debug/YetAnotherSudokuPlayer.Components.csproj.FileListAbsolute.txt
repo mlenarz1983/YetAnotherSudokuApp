@@ -1,0 +1,16 @@
+C:\Users\mlenarz.BIZSPEED\Documents\Visual Studio 2008\Projects\SudokuPlayer\SudokuPlayer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\mlenarz.BIZSPEED\Documents\Visual Studio 2008\Projects\SudokuPlayer\SudokuPlayer\obj\Debug\YetAnotherSudokuPlayer.Components.csproj.GenerateResource.Cache
+C:\Users\mlenarz.BIZSPEED\Documents\Visual Studio 2008\Projects\SudokuPlayer\SudokuPlayer\bin\Debug\YetAnotherSudokuPlayer.Components.dll
+C:\Users\mlenarz.BIZSPEED\Documents\Visual Studio 2008\Projects\SudokuPlayer\SudokuPlayer\bin\Debug\YetAnotherSudokuPlayer.Components.pdb
+C:\Users\mlenarz.BIZSPEED\Documents\Visual Studio 2008\Projects\SudokuPlayer\SudokuPlayer\obj\Debug\YetAnotherSudokuPlayer.Components.SudokuBoard.resources
+C:\Users\mlenarz.BIZSPEED\Documents\Visual Studio 2008\Projects\SudokuPlayer\SudokuPlayer\obj\Debug\YetAnotherSudokuPlayer.Components.dll
+C:\Users\mlenarz.BIZSPEED\Documents\Visual Studio 2008\Projects\SudokuPlayer\SudokuPlayer\obj\Debug\YetAnotherSudokuPlayer.Components.pdb
+C:\Users\Matt\Desktop\YetAnotherSudokuPlayer\YetAnotherSudokuPlayer.Components\bin\Debug\YetAnotherSudokuPlayer.Components.dll
+C:\Users\Matt\Desktop\YetAnotherSudokuPlayer\YetAnotherSudokuPlayer.Components\bin\Debug\YetAnotherSudokuPlayer.Components.pdb
+C:\Users\Matt\Desktop\YetAnotherSudokuPlayer\YetAnotherSudokuPlayer.Components\bin\Debug\Dejavu.dll
+C:\Users\Matt\Desktop\YetAnotherSudokuPlayer\YetAnotherSudokuPlayer.Components\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Matt\Desktop\YetAnotherSudokuPlayer\YetAnotherSudokuPlayer.Components\obj\Debug\YetAnotherSudokuPlayer.Components.SudokuBoard.resources
+C:\Users\Matt\Desktop\YetAnotherSudokuPlayer\YetAnotherSudokuPlayer.Components\obj\Debug\YetAnotherSudokuPlayer.Components.csproj.GenerateResource.Cache
+C:\Users\Matt\Desktop\YetAnotherSudokuPlayer\YetAnotherSudokuPlayer.Components\obj\Debug\YetAnotherSudokuPlayer.Components.dll
+C:\Users\Matt\Desktop\YetAnotherSudokuPlayer\YetAnotherSudokuPlayer.Components\obj\Debug\YetAnotherSudokuPlayer.Components.pdb
+C:\Users\Matt\Desktop\YetAnotherSudokuPlayer\YetAnotherSudokuPlayer.Components\obj\Debug\YetAnotherSudokuPlayer.Components.Properties.Resources.resources
