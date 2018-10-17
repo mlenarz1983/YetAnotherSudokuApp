@@ -1,3 +1,5 @@
+[CodePlex link](https://archive.codeplex.com/?p=yetanothersudokuapp)
+
 Yet Another Sudoku App is a project which allows users a chance to visualize games differently than standard sudoku clients. It has a built-in game generator and solver, but it's primary purpose is to assist with solving sudoku puzzles. It's written in c#.
 
 There were a number of goals I had when creating this project. One goal was education - it's a good way to keep my brain from turning to mush after writing CRUD apps all day :) 
