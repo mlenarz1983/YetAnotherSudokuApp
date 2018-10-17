@@ -4,7 +4,7 @@ There were a number of goals I had when creating this project. One goal was educ
 
 But another big reason was to scratch an itch I get whenever solving a sudoku puzzle online. I always feel too limited; I would like the ability to mark up the board as if I were working on the puzzle on paper. There are a couple online clients for this, but none were powerful enough for me. One need I have is the ability to mark off values for squares which are not possible. Another thing I needed was a game history (i.e. the ability to undo/redo). There are other things that can be added to the client which will assist in solving sudoku puzzles, but for now, those are the two main things.
 
-![screenshot](screenshot.png "Screenshot")
+![screenshot](screenshot.jpg "Screenshot")
 
 The source code is structured in a way which keeps the UI code separate (for the most part) from the core logic of the application. Right now, the client is written using traditional WinForms, but it is my hope that, eventually, the core code can be utilized by other clients (e.g. WPF/Silverlight).
 
